@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudio\\FirstConnectToAtlat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\firstconnecttoatlat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\firstconnecttoatlat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|c:\\visualstudio\\firstconnecttoatlat\\firstconnecttoatlat\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E688A62E-B831-4BA2-B518-5F17BC4DD2FC}|FirstConnectToAtlat\\FirstConnectToAtlat.csproj|solutionrelative:firstconnecttoatlat\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\APIController\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\APIController\\UserAPIController.cs",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\APIController\\UserAPIController.cs*",
+              "RelativeToolTip": "FirstConnectToAtlat\\APIController\\UserAPIController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:05:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\Service\\UserService.cs",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Service\\UserService.cs*",
+              "RelativeToolTip": "FirstConnectToAtlat\\Service\\UserService.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:58:26.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Program.cs",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\Program.cs",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Program.cs*",
+              "RelativeToolTip": "FirstConnectToAtlat\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:57:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\Models\\User.cs",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Models\\User.cs*",
+              "RelativeToolTip": "FirstConnectToAtlat\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:56:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\appsettings.json",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\appsettings.json*",
+              "RelativeToolTip": "FirstConnectToAtlat\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T08:56:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\Settings\\MongoDBSettings.cs*",
+              "RelativeToolTip": "FirstConnectToAtlat\\Settings\\MongoDBSettings.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:55:56.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstConnectToAtlat",
+              "DocumentMoniker": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\FirstConnectToAtlat.csproj",
+              "RelativeDocumentMoniker": "FirstConnectToAtlat\\FirstConnectToAtlat.csproj",
+              "ToolTip": "C:\\VisualStudio\\FirstConnectToAtlat\\FirstConnectToAtlat\\FirstConnectToAtlat.csproj*",
+              "RelativeToolTip": "FirstConnectToAtlat\\FirstConnectToAtlat.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T08:54:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

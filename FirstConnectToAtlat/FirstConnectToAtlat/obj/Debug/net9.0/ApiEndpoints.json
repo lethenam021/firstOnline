@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FirstConnectToAtlat.APIController.UserAPIController",
+    "Method": "CreateNewUser",
+    "RelativePath": "api/UserAPI/Create_NewUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newuser",
+        "Type": "FirstConnectToAtlat.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
